@@ -54,6 +54,17 @@ Lightroom (the cloud version) imports the zip via File > Import Profiles and Pre
 
 Stage Fix gives you a technical base, and your own creative presets go on top. For culling and captioning before you edit, see [Pitpick](https://github.com/woutervellekooppixel/pitpick).
 
+## All Access
+
+Part of [All Access](https://www.wouter.photo/tools), free tools for photographers by Wouter Vellekoop:
+
+- [Pitpick](https://github.com/woutervellekooppixel/pitpick): fast culling, IPTC metadata and renaming for macOS
+- [Bootleg](https://github.com/woutervellekooppixel/bootleg): finds where your photos turn up online
+- [Stage Fix](https://github.com/woutervellekooppixel/stage-fix): Lightroom presets for stage light
+- [Crop & Roll Export](https://github.com/woutervellekooppixel/lightroom-plugins): Lightroom Classic exports sorted by aspect ratio
+- [Remix](https://github.com/woutervellekooppixel/remix): every photo in every format, in Photoshop
+- [Setlist](https://github.com/woutervellekooppixel/setlist): one wide image as a series of slides, in Photoshop
+
 ## Credits and license
 
 Made by [Wouter Vellekoop](https://wouter.photo), concert and event photographer.
