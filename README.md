@@ -52,7 +52,7 @@ Lightroom (the cloud version) imports the zip via File > Import Profiles and Pre
 
 ## Works well with
 
-Stage Fix gives you a technical base, and your own creative presets go on top. For culling and captioning before you edit, see [Snelkeus](https://github.com/woutervellekooppixel/snelkeus).
+Stage Fix gives you a technical base, and your own creative presets go on top. For culling and captioning before you edit, see [Pitpick](https://github.com/woutervellekooppixel/pitpick).
 
 ## Credits and license
 
