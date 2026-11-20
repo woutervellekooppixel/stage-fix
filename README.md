@@ -36,6 +36,14 @@ Every folder has a **Reset** preset at the top, which undoes that folder's step 
 
 ## Install
 
+**From Terminal** (Mac), in one line. Restart Lightroom Classic or Photoshop afterwards; the presets appear as the `SF - ...` folders:
+
+```sh
+curl -fsSL https://github.com/woutervellekooppixel/stage-fix/releases/latest/download/Stage-Fix-v6.zip -o /tmp/Stage-Fix-v6.zip && ditto -x -k /tmp/Stage-Fix-v6.zip "$HOME/Library/Application Support/Adobe"
+```
+
+**Or by hand:**
+
 1. Download `Stage-Fix-v6.zip` from [Releases](../../releases/latest).
 2. **Lightroom Classic:** in the Develop module, click **+** in the Presets panel, choose **Import Presets** and pick the zip.
 3. **Adobe Camera Raw:** in the Presets panel, click the **...** menu, choose **Import Profiles & Presets** and pick the zip.
