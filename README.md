@@ -6,7 +6,7 @@
 
 | Before | After |
 | --- | --- |
-| ![Before: mixed spotlights, green LED wash, clipped highlights](docs/before-1.jpg) | ![After Stage Fix](docs/after-1.jpg) |
+| ![Before: red and magenta stage light, clipped highlights](docs/before-1.jpg) | ![After Stage Fix](docs/after-1.jpg) |
 | ![Before: heavy backlight, crushed shadows](docs/before-2.jpg) | ![After Stage Fix](docs/after-2.jpg) |
 
 ## The system: correct, stabilize, finish
